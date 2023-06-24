@@ -1,4 +1,4 @@
-namespace viewYapısı.Models
+namespace MvcEticaret.Models
 {
     public class ErrorViewModel
     {
